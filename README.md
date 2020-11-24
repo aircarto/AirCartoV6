@@ -1,4 +1,4 @@
-# AirCartoV8
+# AirCartoV6
 
 Projet open source de capteur mobile de pollution atmosphérique.
 
